@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🌐 Socials:
-Instagram LinkedIn Portfolio
+
 
 💻 Tech Stack:
-Java HTML5 C CSS3 JavaScript Python PHP Firebase Netlify Oracle Vercel Render Bootstrap Django Express.js Expo Next JS NodeJS Nodemon React React Native React Router Redux Vite Firebase MySQL MongoDB SQLite Figma Canva Git GitHub
+
