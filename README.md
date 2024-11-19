@@ -1,4 +1,4 @@
-![Profile](https://img.shields.io/badge/Profile-%230072B1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Introduction](https://img.shields.io/badge/Introduction-%23E4405F.svg?style=for-the-badge&logo=hello&logoColor=white)
 - 👋 Hi, I’m Manish
 - SWE Intern @IBM 
 - 🎓 Pursuing Masters ( MCA ) at Nitte University, Mangalore 
