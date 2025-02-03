@@ -7,7 +7,7 @@
 
 
 # Let's Connect 🌍 :
-[Download Resume](https://drive.google.com/file/d/1tno04abpN3_f6JmXWdgMHiCgPm4HKx97/view?usp=drive_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-3b6142207/) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://manishshettigar253.github.io/Manish_Portfolio/)
+[![Resume](https://drive.google.com/file/d/1tno04abpN3_f6JmXWdgMHiCgPm4HKx97/view?usp=drive_link)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-3b6142207/) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://manishshettigar253.github.io/Manish_Portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manish__shettigar?igsh=aGlwemQwdzc2N3g2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@wanderlustEngineer253)
 
 
