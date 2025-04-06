@@ -1,5 +1,5 @@
 # Intro 🙋‍♂️
-- <img src="https://komarev.com/ghpvc/?username=ManishShettigar253&label=Profile%20views&color=red&style=flat-square" alt="Manish" />
+- <img src="https://komarev.com/ghpvc/?username=ManishShettigar253&label=Profile%200views&color=red&style=flat-square" alt="Manish" />
 - 👋 Hi, I’m Manish
 - SWE Intern @IBM 
 - 🎓 Pursuing Masters ( MCA ) at Nitte University, Mangalore 
