@@ -30,7 +30,7 @@
 
 # My GitHub Stats 📊
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="50%">
