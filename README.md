@@ -35,17 +35,17 @@
     <tr>
       <td align="center" width="50%">
         <b>Most Used Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanShiri&show_icons=true&theme=radical&layout=compact" alt="Sohan Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishShettigar253&show_icons=true&theme=radical&layout=compact" alt="Manish's Top Languages" />
       </td>
       <td align="center" width="50%">
         <b>GitHub Stats</b><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=SohanShiri&show_icons=true&theme=radical" alt="Sohan GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ManishShettigar253&show_icons=true&theme=radical" alt="Manish's GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <b>Contribution Streak</b><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohanShiri&theme=radical" alt="Sohan Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishShettigar253&theme=radical" alt="Manish's Streak Stats" />
       </td>
     </tr>
   </table>
