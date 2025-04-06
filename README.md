@@ -1,9 +1,12 @@
 # Intro 🙋‍♂️
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ManishShettigar253&label=Profile%20views&color=red&style=flat-square" alt="Manish" />
+</p>
 - 👋 Hi, I’m Manish
 - SWE Intern @IBM 
 - 🎓 Pursuing Masters ( MCA ) at Nitte University, Mangalore 
 - 🤹‍♂️ Skilled in PHP Web Development Currently doing MERN
-- Exploring ML
+- 💫 Exploring ML
 
 
 # Let's Connect 🌍
@@ -24,6 +27,32 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<h3 align="left">📊 My GitHub Stats:</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>Most Used Languages</b><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanShiri&show_icons=true&theme=radical&layout=compact" alt="Sohan Top Languages" />
+      </td>
+      <td align="center" width="50%">
+        <b>GitHub Stats</b><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=SohanShiri&show_icons=true&theme=radical" alt="Sohan GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <b>Contribution Streak</b><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohanShiri&theme=radical" alt="Sohan Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
