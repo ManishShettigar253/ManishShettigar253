@@ -3,7 +3,7 @@
  # 👋 Hi, I’m Manish
 
 - 💻 **SWE Intern @ IBM**
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at NMAM Institue of Tech, Nitte - Nitte University, Mangalore
+- 🎓 **MCA'25** Graduate from NMAM Institue of Tech, Nitte - Nitte University, Mangalore
 - 🌐 Skilled in **PHP Web Development**, currently diving into the **MERN Stack**
 - ☕️ Cracking **DSA** with **Java**
 - 🧠📊 Exploring the world of **Machine Learning**
