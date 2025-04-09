@@ -16,8 +16,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=user&logoColor=white)](https://manishshettigar253.github.io/Manish_Portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/manish__shettigar?igsh=aGlwemQwdzc2N3g2) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@wanderlustEngineer253)
-[![Credly](https://img.shields.io/badge/Credly-Badges-F28C28?logo=credly&logoColor=white&style=flat)](https://www.credly.com/users/manish.bee74b2e)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-F28C28?logo=codeforces&logoColor=white&style=flat)](https://codolio.com/profile/ManishShettigar253)
+[![Credly](https://img.shields.io/badge/CredlyBadges-F28C28?logo=credly&logoColor=white&style=flat)](https://www.credly.com/users/manish.bee74b2e)
+[![Codolio](https://img.shields.io/badge/CodolioProfile-F28C28?logo=codeforces&logoColor=white&style=flat)](https://codolio.com/profile/ManishShettigar253)
 
 
 
