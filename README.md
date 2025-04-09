@@ -4,6 +4,7 @@
 - SWE Intern @IBM 
 - 🎓 Pursuing Masters ( MCA ) at Nitte University, Mangalore 
 - 🤹‍♂️ Skilled in PHP Web Development Currently doing MERN
+- ☕️ Java ~ DSA
 - 💫 Exploring ML
 
 
