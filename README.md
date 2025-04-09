@@ -1,11 +1,13 @@
-# Intro 🙋‍♂️
-- <img src="https://komarev.com/ghpvc/?username=ManishShettigar253&label=Profile%20views&color=red&style=flat-square" alt="Manish" />
-- 👋 Hi, I’m Manish
-- SWE Intern @IBM 
-- 🎓 Pursuing Masters ( MCA ) at Nitte University, Mangalore 
-- 🤹‍♂️ Skilled in PHP Web Development Currently doing MERN
-- ☕️ Java ~ DSA
-- 💫 Exploring ML
+<img src="https://komarev.com/ghpvc/?username=ManishShettigar253&label=Profile%20views&color=red&style=flat-square" alt="Manish" />
+
+ # 👋 Hi, I’m Manish
+
+- 💻 **SWE Intern @ IBM**
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at NMAM Institue of Tech, Nitte - Nitte University, Mangalore
+- 🌐 Skilled in **PHP Web Development**, currently diving into the **MERN Stack**
+- ☕️ Proficient in **Java & DSA**
+- 🧠📊 Exploring the world of **Machine Learning**
+- 🚀 Passionate about **Full Stack Development, AI & Tech Innovation**
 
 
 # Let's Connect 🌍
