@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/manish__shettigar?igsh=aGlwemQwdzc2N3g2) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@wanderlustEngineer253)
 [![Credly](https://img.shields.io/badge/Credly-Badge-blue?logo=credly&logoColor=white)](https://www.credly.com/users/manish.bee74b2e)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-orange?logo=data&logoColor=white)]([(https://codolio.com/profile/ManishShettigar253)])
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-orange?logo=data&logoColor=white)](https://codolio.com/profile/ManishShettigar253)
 
 
 # Tech Stack 💻
